@@ -1,0 +1,13 @@
+*
+
+!.gitignore
+
+!sysfs
+!sysfs/*.cpp
+!sysfs/*.sh
+!sysfs/Makefile
+
+!gpiod
+!gpiod/*.sh
+!gpiod/*.cpp
+!gpiod/Makefile
