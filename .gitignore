@@ -23,8 +23,22 @@
 
 !gpiod/Makefile
 
+
 !ioctl
 
 !ioctl/*.cpp
 
 !ioctl/Makefile
+
+!mmap
+
+!mmap/*.cpp
+
+!mmap/Makefile
+
+
+!wiringPi
+
+!wiringPi/*.cpp
+
+!wiringPi/Makefile
